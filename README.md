@@ -7,6 +7,11 @@ Final-year Computer Engineering student. I'm always looking to learn something n
 - 💌 How to reach me: euniceleow46@gmail.com
 - 🐾 Fun fact: I have a cat named Jin who's super adorable. Gotta make a living to keep him fed.
 - 🩷 Bonus fact: Everything I own is pink.
+ 
 **✨ Tech Stack**
 
-`Python` `C` `C++` `C#` `HTML` `CSS` `SQL` `Git`
+💻 Languages: `Python` `C` `C++` `C#` `HTML` `CSS` `SQL`
+
+🛠️ Tools: `Git` `SVN` `Figma` `ClickUp`
+
+🗄️ Databases: `SQL*Plus` `Oracle SQL Developer`
